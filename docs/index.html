@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href= "https://fonts.googleapis.com/css2?family=Lato&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css" integrity="sha512-d0v474klOFSF7qD9WDvyRxAvXaWSxCHDZdnBSZQjo8BpVr6vpjwAgqetpqkKP38DzlOzdVPaLVnzzW1Ba8wB9w==" crossorigin="anonymous" />
+
+    <style type="text/css">
+      body {
+        font-family: 'Lato', sans-serif;
+        line-height: 2em;
+        background: #eee;
+      }
+
+      label {
+        display: block;
+        font-weight: bold;
+      }
+
+      input {
+        display: block;
+      }
+
+      .submit {
+        background-color: #000;
+        color: #fff;
+        border: none;
+      }
+
+      .container {
+        max-width: 40em;
+        background: white;
+      }
+
+      .even-grow {
+        flex-basis: 0;
+        flex-grow: 1;
+      }
+
+    </style>
+
+    <title>Puzzles</title>
+  </head>
+
+  <body>
+    <div class="container pt4 ma center vh-100 flex flex-column">
+      <h1 class="tc">Check your answers</h1>
+
+      <div class="h2"></div>
+
+      <form>
+        <div class="flex w-80">
+          <label class="even-grow tr" for="name">Location</label>
+          <div class="w1"></div>
+          <select id="puzzle" class="w5">
+            <option value="ravenous">Ravenous Reads</option>
+            <option value="sweets">Sam's Scrumptious Sweets</option>
+            <option value="grit">Grit Studios</option>
+            <option value="intrepid">Intrepid Theatre</option>
+            <option value="flyway">Flyway Inn &amp; Spa</option>
+            <option value="letter">Key to the Final Letter</option>
+            <option value="safe">Password to the Safe</option>
+          </select>
+        </div>
+
+        <div class="h1"></div>
+
+        <div class="flex w-80">
+          <label class="even-grow tr" for="Solution">Your Answer</label>
+          <div class="w1"></div>
+          <input type="text" class="w5" maxlength="256" name="Solution" data-name="Solution" placeholder="" id="solution">
+        </div>
+
+        <div class="h1"></div>
+
+        <div class="flex w-80">
+          <div class="even-grow"></div>
+          <div class="w1"></div>
+          <input class="submit pa2 w5" type="submit" value="Submit" data-wait="Please wait..." id="submit" class= "submit" />
+        </div>
+        <div id="message" class="tc f3 pv4 ph3 lh-copy"></div>
+      </form>
+
+      <div class="flex-auto"></div>
+      <img src="./border.jpg" />
+    </div>
+
+    <script>
+      document.getElementById("submit").addEventListener("click", checkSolution);
+
+      function checkSolution() {
+        event.preventDefault();
+
+        let isCorrect = false;
+        const puzzle = document.getElementById("puzzle").value;
+        let solution = document.getElementById("solution").value;
+        solution = solution.split(" ").join("").toUpperCase();
+
+        switch (puzzle) {
+          case "ravenous":
+            isCorrect = solution === "MELTED";
+            break;
+          case "sweets":
+            isCorrect = solution === "AQUATIC";
+            break;
+          case "grit":
+            isCorrect = solution === "GULF";
+            break;
+          case "intrepid":
+            isCorrect = solution === "ICY";
+            break;
+          case "flyway":
+            isCorrect = solution === "CREST";
+            break;
+          case "letter":
+            isCorrect = solution === "MAGIC";
+            break;
+          case "safe":
+            isCorrect = solution === "OCEAN";
+            break;
+        }
+
+        let message = document.getElementById("message");
+        if (isCorrect) {
+          message.innerHTML = solution + " is correct!";
+          if (puzzle === "safe") {
+            message.innerHTML += "<br><br>Congratulations! You found the final password and retrieved the fortune 🎊";
+          } else if (puzzle === "letter") {
+            message.innerHTML += "<br><br>You may now open the final letter ✉️";
+          }
+        } else {
+          message.innerHTML = solution + " is not correct."
+        }
+      }
+    </script>
+  </body>
+</html>
