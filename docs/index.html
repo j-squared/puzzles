@@ -3,6 +3,8 @@
   <head>
     <link href= "https://fonts.googleapis.com/css2?family=Lato&amp;display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css" integrity="sha512-d0v474klOFSF7qD9WDvyRxAvXaWSxCHDZdnBSZQjo8BpVr6vpjwAgqetpqkKP38DzlOzdVPaLVnzzW1Ba8wB9w==" crossorigin="anonymous" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
 
     <style type="text/css">
       body {
@@ -27,7 +29,6 @@
       }
 
       .container {
-        max-width: 40em;
         background: white;
       }
 
@@ -42,7 +43,7 @@
   </head>
 
   <body>
-    <div class="container pt4 ma center vh-100 flex flex-column">
+    <div class="container mw6-l pt4 ma center vh-100-l vh-80 flex flex-column">
       <h1 class="tc">Check your answers</h1>
 
       <div class="h2"></div>
@@ -51,7 +52,7 @@
         <div class="flex w-80">
           <label class="even-grow tr" for="name">Location</label>
           <div class="w1"></div>
-          <select id="puzzle" class="w5">
+          <select id="puzzle" class="w5-l w4">
             <option value="ravenous">Ravenous Reads</option>
             <option value="sweets">Sam's Scrumptious Sweets</option>
             <option value="grit">Grit Studios</option>
@@ -67,7 +68,7 @@
         <div class="flex w-80">
           <label class="even-grow tr" for="Solution">Your Answer</label>
           <div class="w1"></div>
-          <input type="text" class="w5" maxlength="256" name="Solution" data-name="Solution" placeholder="" id="solution">
+          <input type="text" class="w5-l w4" maxlength="256" name="Solution" data-name="Solution" placeholder="" id="solution">
         </div>
 
         <div class="h1"></div>
