@@ -7,7 +7,7 @@ View hints for each puzzle.
 <details><summary>Hint 1</summary>
 <p>
 
-Consider the envelope label to determine what’s common across the images.
+Consider the cover to determine what’s common across the images.
 
 </p>
 </details>
@@ -23,7 +23,7 @@ Can you name any individuals behind each photo? Searching online may help.
 <details><summary>Hint 3</summary>
 <p>
 
-Each photo depicts a discovery made by a female scientist where most, if not all, credit went to male counterparts. Fill out the female scientists.
+Each photo depicts a discovery made by a female scientist where most, if not all, credit went to male counterparts. Find the female scientists.
 
 </p>
 </details>
@@ -31,15 +31,36 @@ Each photo depicts a discovery made by a female scientist where most, if not all
 <details><summary>Hint 4</summary>
 <p>
 
-The ladies are: Rosalind Franklin, Nettie Stevens, Lise Meitner, Gladys West, Ada Lovelace, and Hedy Lamarr. After filling out the names of female scientists behind each photo, anagram the boxed letters to find the answer. 
+The ladies are: Rosalind Franklin, Lise Meitner, Nettie Stevens, Gladys West, Hedy Lamarr, and Ada Lovelace. 
 
+</p>
+</details>
+
+<details><summary>Hint 4</summary>
+<p>
+
+Look for numbers in the book that can indicate how to get one letter from each name.
+
+</p>
+</details>
+
+<details><summary>Hint 4</summary>
+<p>
+
+Do you see anything strange about the table of contents?
+</p>
+</details>
+
+<details><summary>Hint 5</summary>
+<p>
+Take each page number and get that letter of the corresponding photo's answer. 
 </p>
 </details>
 
 <details><summary>Answer</summary>
 <p>
 
-The answer is MELTED.
+The answer is MELTED: rosaLind franklin, lise Meitner, nettie sTevens, glaDys west, hEdy lamarr, ada lovElace.
 
 </p>
 </details>
@@ -50,14 +71,14 @@ The answer is MELTED.
 <details><summary>Hint 1</summary>
 <p>
 
-Solve the equations at the bottom of the recipe, where each letter represents one digit. 
+Solve the equations at the bottom of the recipe, where each letter represents one digit (0-9). 
 </p>
 </details>
 
 <details><summary>Hint 2</summary>
 <p>
 
-For B: B is a single digit, so it must be a value between 0-9. Experiment with different values for B until the equation becomes true.
+For B: B is a single digit, so it must be a value between 0 and 9. Experiment with different values for B until the equation becomes true.
 
 For A, G, and F: Consider what number added to itself yields a final digit of 0. Set this to A, and figure out what numbers G and F must be for the equation to hold true.
 
@@ -90,14 +111,14 @@ Once you have solved the equations, A = 5, B = 6, C = 3, D = E = 1, F = 2, G = 9
  
  <details><summary>Hint 6</summary>
  <p>
- Convert these numbers into letters by taking corresponding letters of the alphabet.
+  How can you convert these numbers into letters of the alphabet?
 </p>
 </details>
 
 <details><summary>Answer</summary>
 <p>
 
-Unscramble the letters to form the word AQUATIC.
+Convert these numbers into letters by indexing into the alphabet (A = 1, B = 2, C = 3, ...). Unscramble the converted letters to form the word AQUATIC.
 
 </p>
 </details>
@@ -108,7 +129,7 @@ Unscramble the letters to form the word AQUATIC.
 <details><summary>Hint 1</summary>
 <p>
 
-Each image is a picture representation of a common word or phrase. A sample answer to the top left image is filled out for you in the crossword.
+Each image is a representation of a common word or phrase. A sample answer to the top left image is filled out for you in the crossword.
 
 </p>
 </details>
@@ -132,14 +153,14 @@ Think about incorporating the number or position of words you see into the solut
 <details><summary>Hint 4</summary>
 <p>
 
-Positions to incorporate include: over, under, in, and on. Numbers include: one, two, and four.
+Position words you can incorporate include: over, under, in, and on. Number words you can incorporate include: one, two, and four. Try using these words in the phrases for each image.
 
 </p>
 </details>
 
 <details><summary>Hint 5</summary>
  <p>
-  The individual answers are: Mind over matter, Try to understand, Forgive and forget, One life to live, Inner strength, On cloud nine, and Get in shape.
+  The individual answers are: Mind over Matter, Try to Understand, Forgive and Forget, One Life to Live, Inner Strength, On Cloud Nine, and Get in Shape.
  </p>
  </details>
 
@@ -165,7 +186,7 @@ How can you translate the descriptions in the program into places on the map?
 <details><summary>Hint 2</summary>
 <p>
 
-Each description refers to a location in an ancient civilization. Plot each location on the map. Searching online may help.
+Each description refers to a location in an ancient civilization. Plot each location on the map. You may find searching online helpful.
 
 </p>
 </details>
@@ -232,15 +253,29 @@ The homophones are: STAIRS/STARES, SCENT/CENT, DESERT/DESSERT, RAISE/RAYS, SWEET
 <details><summary>Hint 4</summary>
 <p>
 
-Once you’ve filled in the top words from each couplet, anagram the boxed letters to form the solution. 
+Once you’ve found the top words from each couplet, look at the flowers next to each couplet. Do you see them anywhere else?
 
+</p>
+</details>
+
+<details><summary>Hint 5</summary>
+<p>
+
+Think about how to use the count of each flower type you see in the background to get one letter from each word.
+</p>
+</details>
+
+<details><summary>Hint 6</summary>
+<p>
+
+Take the number of flowers you see for each type of flower and index into each word with that count. 
 </p>
 </details>
 
 <details><summary>Answer</summary>
 <p>
 
-The answer is CREST.
+The answer is CREST: staiRs, sCent, deSert, raisE, sweeT.
 
 </p>
 </details>
