@@ -53,6 +53,7 @@ Do you see anything strange about the table of contents?
 
 <details><summary>Hint 7</summary>
 <p>
+ 
 Take each page number and get that letter of the corresponding photo's answer. 
 </p>
 </details>
@@ -105,12 +106,14 @@ Once you have solved the equations, A = 5, B = 6, C = 3, D = E = 1, F = 2, G = 9
 
 <details><summary>Hint 5</summary>
  <p>
+  
   Because the recipe calls for freezing A, B, and F for 15 minutes, adding 15 to these values gives: A = 20, B = 26, C = 3, D = E = 1, F = 17, G = 9.
  </p>
  </details>
  
  <details><summary>Hint 6</summary>
  <p>
+  
   How can you convert these numbers into letters of the alphabet?
 </p>
 </details>
@@ -160,6 +163,7 @@ Position words you can incorporate include: over, under, in, and on. Number word
 
 <details><summary>Hint 5</summary>
  <p>
+  
   The individual answers are: Mind over Matter, Try to Understand, Forgive and Forget, One Life to Live, Inner Strength, On Cloud Nine, and Get in Shape.
  </p>
  </details>
@@ -211,6 +215,7 @@ Each Act groups together one letter, so you don’t need to connect places betwe
 
 <details><summary>Hint 5</summary>
  <p>
+  
   Try connecting the points in the order of the descriptions.
 </p>
 </details>
