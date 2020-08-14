@@ -36,7 +36,7 @@ The ladies are: Rosalind Franklin, Lise Meitner, Nettie Stevens, Gladys West, He
 </p>
 </details>
 
-<details><summary>Hint 4</summary>
+<details><summary>Hint 5</summary>
 <p>
 
 Look for numbers in the book that can indicate how to get one letter from each name.
@@ -44,14 +44,14 @@ Look for numbers in the book that can indicate how to get one letter from each n
 </p>
 </details>
 
-<details><summary>Hint 4</summary>
+<details><summary>Hint 6</summary>
 <p>
 
 Do you see anything strange about the table of contents?
 </p>
 </details>
 
-<details><summary>Hint 5</summary>
+<details><summary>Hint 7</summary>
 <p>
 Take each page number and get that letter of the corresponding photo's answer. 
 </p>
