@@ -250,12 +250,26 @@ Within one couplet, the top line and bottom line each indicate one word that is 
 <details><summary>Hint 3</summary>
 <p>
 
+Consider these words/phrases in the couplets:
+
+First couplet: these / look intently
+Second couplet: smells / one penny
+Third couplet: abandon / after-dinner sweet
+Fourth couplet: lift / shines with beams
+Fifth couplet: sugary taste / nice lodging
+
+</p>
+</details>
+
+<details><summary>Hint 4</summary>
+<p>
+
 The homophones are: STAIRS/STARES, SCENT/CENT, DESERT/DESSERT, RAISE/RAYS, SWEET/SUITE.
 
 </p>
 </details>
  
-<details><summary>Hint 4</summary>
+<details><summary>Hint 5</summary>
 <p>
 
 Once you’ve found the top words from each couplet, look at the flowers next to each couplet. Do you see them anywhere else?
@@ -263,14 +277,14 @@ Once you’ve found the top words from each couplet, look at the flowers next to
 </p>
 </details>
 
-<details><summary>Hint 5</summary>
+<details><summary>Hint 6</summary>
 <p>
 
 Think about how to use the count of each flower type you see in the background to get one letter from each word.
 </p>
 </details>
 
-<details><summary>Hint 6</summary>
+<details><summary>Hint 7</summary>
 <p>
 
 Take the number of flowers you see for each type of flower and index into each word with that count. 
