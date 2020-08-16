@@ -253,10 +253,15 @@ Within one couplet, the top line and bottom line each indicate one word that is 
 Consider these words/phrases in the couplets:
 
 First couplet: these / look intently
+
 Second couplet: smells / one penny
+
 Third couplet: abandon / after-dinner sweet
+
 Fourth couplet: lift / shines with beams
+
 Fifth couplet: sugary taste / nice lodging
+
 
 </p>
 </details>
