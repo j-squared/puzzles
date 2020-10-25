@@ -351,12 +351,34 @@ Taking the first letter from each individual answer and going in order from top 
 <details><summary>Hint 1</summary>
 <p>
 
-Look back at the previous answers to each location puzzle. Do their meanings relate to any location on the map?
-
+Do you notice anything strange with Anne's writing?
 </p>
 </details>
 
 <details><summary>Hint 2</summary>
+<p>
+
+Note that "imperfections" is bolded. Do you see any imperfections in Anne's spelling?
+</p>
+</details>
+
+<details><summary>Hint 3</summary>
+<p>
+
+For the first word, can you combine the missing letters in Anne's misspellings? Remember that the final phrase is the proper name for a place.
+</p>
+</details>
+
+
+<details><summary>Hint 4</summary>
+<p>
+
+For the second word, look back at the previous answers to each location puzzle. Do their meanings relate to any location on the map?
+
+</p>
+</details>
+
+<details><summary>Hint 5</summary>
 <p>
 
 Consider places on the map that you haven’t visited.
@@ -367,7 +389,7 @@ Consider places on the map that you haven’t visited.
 <details><summary>Answer</summary>
 <p>
 
-The answer is OCEAN.
+The answer is ATLANTIC OCEAN.
 
 </p>
 </details>
