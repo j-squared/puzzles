@@ -389,7 +389,7 @@ Consider places on the map that you haven’t visited.
 <details><summary>Answer</summary>
 <p>
 
-The answer is ATLANTIC OCEAN.
+The answer is ATLANTIC OCEAN. The missing letters are: forune (T), correspodence (N), reax (L), entre (I), beween (T), seond (C), distnce (A), and lerned (A).
 
 </p>
 </details>
